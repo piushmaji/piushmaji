@@ -76,26 +76,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=piushmaji&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1" alt="Trophies"/>
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=piushmaji&theme=tokyo-night&bg_color=0D0D14&color=7c3aed&line=06b6d4&point=f472b6&area=true&area_color=7c3aed&hide_border=true" width="100%" alt="Contribution Graph"/>
-
-</div>
-
----
-
 <div align="center">
 
 *✨ "Code is not just syntax — it's the language of innovation."*
