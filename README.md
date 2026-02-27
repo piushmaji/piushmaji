@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=180&section=header&text=Piush%20Maji&fontSize=65&fontAlignY=40&desc=BTech%20CSE%20%7C%20Aspiring%20Software%20Developer%20%F0%9F%92%BB&descAlignY=60&descSize=15&animation=fadeIn&fontColor=ffffff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Piush%20Maji&fontSize=65&fontAlignY=40&desc=BTech%20CSE%20%7C%20Aspiring%20Software%20Developer%20%F0%9F%92%BB&descAlignY=60&descSize=15&animation=fadeIn&fontColor=ffffff" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=800&color=A78BFA&center=true&vCenter=true&width=600&height=45&lines=Passionate+about+Coding+%26+Tech+%F0%9F%9A%80;Building+Innovative+Solutions+%F0%9F%92%A1;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1;Open+to+Exciting+Opportunities+%E2%9C%A8" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=800&color=F6C90E&center=true&vCenter=true&width=600&height=45&lines=Passionate+about+Coding+%26+Tech+%F0%9F%9A%80;Building+Innovative+Solutions+%F0%9F%92%A1;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1;Open+to+Exciting+Opportunities+%E2%9C%A8" alt="Typing SVG" />
 
 <br/>
 
@@ -14,7 +14,7 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=piushmaji&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=piushmaji&color=F6C90E&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
@@ -48,13 +48,13 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=piushmaji&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D0D14&title_color=a78bfa&icon_color=06b6d4&text_color=e2e8f0&include_all_commits=true&count_private=true" height="175" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=piushmaji&show_icons=true&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="175" alt="GitHub Stats"/>
 &nbsp;
-<img src="https://nirzak-streak-stats.vercel.app/?user=piushmaji&theme=tokyonight&hide_border=true&background=0D0D14&ring=a78bfa&fire=f472b6&currStreakLabel=06b6d4&sideLabels=e2e8f0&dates=64748b" height="175" alt="GitHub Streak"/>
+<img src="https://nirzak-streak-stats.vercel.app/?user=piushmaji&theme=dark&hide_border=false" height="175" alt="GitHub Streak"/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piushmaji&theme=tokyonight&hide_border=true&bg_color=0D0D14&title_color=a78bfa&text_color=e2e8f0&layout=compact&langs_count=8" height="155" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piushmaji&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="155" alt="Top Languages"/>
 
 </div>
 
@@ -64,17 +64,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=piushmaji&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1" alt="Trophies"/>
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=piushmaji&theme=tokyo-night&bg_color=0D0D14&color=a78bfa&line=06b6d4&point=f472b6&area=true&hide_border=true" width="100%" alt="Contribution Graph"/>
+<img src="https://github-profile-trophy.vercel.app/?username=piushmaji&theme=dark&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
 
 </div>
 
@@ -86,6 +76,6 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
 </div>
