@@ -1,314 +1,172 @@
 # <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:4F46E5,50:7C3AED,100:A855F7&text=PIUSH%20MAJI&fontColor=ffffff&fontSize=55&fontAlignY=40&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Piush%20Maji&fontSize=65&fontAlignY=40&desc=Frontend%20Developer%20%7C%20MERN%20Stack%20Enthusiast&descAlignY=60&descSize=15&animation=fadeIn&fontColor=ffffff" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3500&pause=1000&color=A855F7&center=true&vCenter=true&width=1000&lines=Frontend+Engineer;Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Building+Scalable+Digital+Experiences;Open+Source+Contributor" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=800&color=A855F7&center=true&vCenter=true&width=700&height=45&lines=Frontend+Developer;React.js+Enthusiast;Building+with+MERN+Stack;Passionate+about+UI%2FUX+and+Performance;Open+to+Internship+Opportunities" alt="Typing SVG" />
 
 <br/>
 
-![B.Tech](https://img.shields.io/badge/B.Tech-Computer%20Science-7C3AED?style=for-the-badge)
-![Quantum University](https://img.shields.io/badge/Quantum-University-A855F7?style=for-the-badge)
-![Frontend Engineer](https://img.shields.io/badge/Frontend-Engineer-6366F1?style=for-the-badge)
-
-![Location](https://img.shields.io/badge/Roorkee-Uttarakhand,%20India-4F46E5?style=for-the-badge)
-
-<a href="https://portfolio.example.com">
-<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/piush-maji-4aa2a72b9">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-6366F1?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:piushmaji@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-A855F7?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/piushmaji">
-<img src="https://img.shields.io/badge/GitHub-Follow-4F46E5?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-7C3AED?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/piush-maji-4aa2a72b9/)
+[![Email](https://img.shields.io/badge/Email-Contact-A855F7?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:piushmaji@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-piushmaji-6366F1?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/piushmaji)
 
 <br/>
 
 ![](https://komarev.com/ghpvc/?username=piushmaji\&style=for-the-badge\&color=7C3AED)
 
-![](https://img.shields.io/github/followers/piushmaji?style=for-the-badge\&color=6366F1\&label=Followers)
-
-![](https://img.shields.io/github/stars/piushmaji?style=for-the-badge\&color=A855F7\&label=Stars)
-
 </div>
 
 ---
 
-# About Me
+## About Me
 
-Frontend-focused Computer Science Engineering student passionate about designing and engineering high-performance software products that deliver exceptional user experiences.
+Frontend-focused Computer Science Engineering student at **Quantum University, Roorkee**.
 
-I specialize in building modern web applications using React.js, JavaScript, Node.js, and cloud-native development practices. My engineering approach combines strong fundamentals in Data Structures & Algorithms with product-oriented thinking, allowing me to create scalable, maintainable, and production-ready solutions.
-
-With growing expertise in Artificial Intelligence, Full Stack Engineering, and Modern Web Technologies, I actively work on projects that merge elegant user experiences with robust backend systems.
-
-### Open To
-
-* Frontend Development Internships
-* Software Engineering Internships
-* Full Stack Development Opportunities
-* Open Source Contributions
-* AI/ML Research & Development Projects
-* Product Engineering Roles
+* Building responsive and scalable web applications using React.js and the MERN Stack
+* Strong foundation in Data Structures & Algorithms
+* Interested in modern UI/UX, animations, and frontend performance optimization
+* Currently developing a full-stack E-Commerce platform
+* Open to Frontend Developer and Software Engineering Internship opportunities
 
 ---
 
-# Tech Stack
+## Tech Stack
 
-### Languages
+<div align="center">
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=javascript,python,cpp,c" />
-</p>
+<img src="https://skillicons.dev/icons?i=cpp,c,js,python,react,nodejs,express,mongodb,html,css,tailwind,git,github,vscode" />
+
+</div>
 
 ### Frontend
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,vite" />
-</p>
+`React.js` • `JavaScript (ES6+)` • `HTML5` • `CSS3` • `Tailwind CSS` • `GSAP` • `Locomotive Scroll`
 
-### Backend & Databases
+### Backend & Database
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,supabase" />
-</p>
+`Node.js` • `Express.js` • `MongoDB` • `Supabase`
 
-### Cloud, DevOps & Tooling
+### Core Concepts
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" />
-</p>
+`Data Structures & Algorithms` • `OOP` • `REST APIs` • `Git` • `Responsive Design` • `UI/UX Principles`
 
 ---
 
-# AI / ML Expertise
-
-| Domain                 | Proficiency  | Details                                                |
-| ---------------------- | ------------ | ------------------------------------------------------ |
-| Generative AI          | Intermediate | Prompt Engineering, LLM Applications, AI Workflows     |
-| Machine Learning       | Intermediate | Supervised Learning, Data Processing, Model Evaluation |
-| AI Product Engineering | Intermediate | Integrating AI Features into Web Applications          |
-| Python for AI          | Intermediate | Data Analysis, Automation, ML Foundations              |
-| Deep Learning          | Learning     | Neural Networks, Model Architectures                   |
-| AI Deployment          | Learning     | API Integration, Scalable AI Applications              |
-
----
-
-# Featured Projects
+## Featured Projects
 
 <details>
-<summary><b>StoreX — Full Stack E-Commerce Platform</b></summary>
+<summary><b>🛒 StoreX — MERN E-Commerce Platform</b></summary>
 
 ### Overview
 
-StoreX is a scalable MERN-based e-commerce platform engineered with a modern frontend architecture, secure authentication workflows, responsive UI systems, and optimized product management capabilities.
+A full-stack E-Commerce application built using the MERN Stack.
 
-| Metric      | Details                                              |
-| ----------- | ---------------------------------------------------- |
-| Stack       | React.js, Node.js, Express.js, MongoDB, Tailwind CSS |
-| Scale       | Multi-page E-Commerce Architecture                   |
-| Performance | Optimized Rendering & API Handling                   |
-| Security    | Authentication & Protected Routes                    |
-| Impact      | Production-Ready Commerce Experience                 |
-| Repository  | https://github.com/piushmaji                         |
+#### Highlights
 
-### Engineering Highlights
-
-* Responsive mobile-first architecture
-* Dynamic cart and product workflows
+* Product listing and management
+* Shopping cart functionality
+* Authentication system
 * REST API integration
-* Modular frontend structure
-* Performance optimization techniques
-* Scalable backend architecture
+* Responsive mobile-first design
+* Optimized component rendering
+
+**Tech Stack:** React.js, Node.js, Express.js, MongoDB, Tailwind CSS
 
 </details>
 
-<br/>
+<br>
 
 <details>
-<summary><b>Miranda Portfolio — Interactive Creative Experience</b></summary>
+<summary><b>🎨 Miranda Portfolio</b></summary>
 
 ### Overview
 
-A highly interactive portfolio inspired by retro editorial design systems, focused on immersive animations and smooth user experiences.
+A retro-themed animated portfolio focused on immersive user experiences and smooth interactions.
 
-| Metric      | Details                                        |
-| ----------- | ---------------------------------------------- |
-| Stack       | HTML, CSS, JavaScript, GSAP, Locomotive Scroll |
-| Scale       | Multi-Section Interactive Website              |
-| Performance | Smooth Scroll Optimization                     |
-| Security    | Secure Static Deployment                       |
-| Impact      | Enhanced User Engagement                       |
-| Repository  | https://github.com/piushmaji                   |
+#### Highlights
 
-### Engineering Highlights
+* GSAP-powered animations
+* Locomotive Scroll integration
+* Scroll-triggered effects
+* Optimized rendering performance
+* Responsive design
 
-* Scroll-triggered storytelling
-* Advanced animation systems
-* Modern browser optimization
-* High-performance rendering
-* Creative UI architecture
+**Tech Stack:** HTML, CSS, JavaScript, GSAP, Locomotive Scroll
 
 </details>
 
-<br/>
+<br>
 
 <details>
-<summary><b>CardCall — Contact Management Application</b></summary>
+<summary><b>📇 CardCall — Contact Manager</b></summary>
 
 ### Overview
 
-A lightweight contact management application focused on CRUD functionality, maintainability, and modular JavaScript architecture.
+A JavaScript-based contact management application supporting CRUD operations.
 
-| Metric      | Details                          |
-| ----------- | -------------------------------- |
-| Stack       | JavaScript, HTML, CSS            |
-| Scale       | Modular Application Architecture |
-| Performance | Fast Client-Side Operations      |
-| Security    | Input Validation                 |
-| Impact      | Efficient Contact Management     |
-| Repository  | https://github.com/piushmaji     |
+#### Highlights
 
-### Engineering Highlights
+* Create, Read, Update, Delete operations
+* Modular architecture
+* Clean and maintainable codebase
+* User-friendly interface
 
-* CRUD operations
-* Modular design patterns
-* Clean code practices
-* Scalable component structure
-* User-focused experience
+**Tech Stack:** JavaScript, HTML, CSS
 
 </details>
 
 ---
 
-# Experience
+## Certifications
 
-## Frontend Developer
-
-**Personal & Academic Projects**
-
-**2025 — Present**
-
-Designing and developing modern frontend applications focused on performance, responsiveness, and maintainability.
-
-### Scope of Work
-
-* Building scalable React.js applications
-* Designing responsive UI systems
-* Integrating REST APIs
-* Performance optimization
-* Git-based collaborative workflows
-* Product-focused frontend engineering
-
-### Skills
-
-`React.js` `JavaScript` `Tailwind CSS` `Node.js` `MongoDB` `Git` `REST APIs`
+* Microsoft — Generative AI for Beginners
+* HTML & CSS Bootcamp — Let'sUpgrade
+* Python Programming Certification
 
 ---
 
-# Achievements
+## Current Focus
+
+```yaml
+Learning:
+  - Advanced React.js
+  - Backend Development
+  - Data Structures & Algorithms
+
+Building:
+  - StoreX E-Commerce Platform
+
+Improving:
+  - Frontend Performance
+  - UI/UX Design
+  - Problem Solving
+
+Open_To:
+  - Frontend Developer Internship
+  - Software Engineering Internship
+```
+
+---
+
+## GitHub Stats
 
 <div align="center">
 
-| Recognition                  | Details                                             |
-| ---------------------------- | --------------------------------------------------- |
-| Data Structures & Algorithms | Completed structured DSA training                   |
-| Full Stack Development       | Built multiple production-grade projects            |
-| Open Source Journey          | Actively contributing and learning modern workflows |
-| Hackathon Participation      | Collaborated in team-based project development      |
-| Continuous Learning          | Consistently upgrading engineering skills           |
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=piushmaji&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-</div>
-
----
-
-# Certifications
-
-## AWS
-
-![AWS Cloud](https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=for-the-badge\&logo=amazonaws\&logoColor=white)
-
-## Oracle
-
-![Oracle](https://img.shields.io/badge/Oracle-Learning-F80000?style=for-the-badge\&logo=oracle\&logoColor=white)
-
-## NPTEL
-
-![NPTEL](https://img.shields.io/badge/NPTEL-Certified-7C3AED?style=for-the-badge)
-
-## Cisco
-
-![Cisco](https://img.shields.io/badge/Cisco-Networking-1BA0D7?style=for-the-badge\&logo=cisco\&logoColor=white)
-
-## Other Certifications
-
-![Microsoft](https://img.shields.io/badge/Microsoft-Generative%20AI-6366F1?style=for-the-badge\&logo=microsoft)
-
-![Python](https://img.shields.io/badge/Python-Certified-A855F7?style=for-the-badge\&logo=python)
-
-![HTML CSS](https://img.shields.io/badge/HTML%20%26%20CSS-Bootcamp-7C3AED?style=for-the-badge)
-
----
-
-# Coding Profiles
-
-<div align="center">
-
-<a href="https://leetcode.com/">
-<img src="https://img.shields.io/badge/LeetCode-Problem%20Solver-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-<a href="https://www.geeksforgeeks.org/">
-<img src="https://img.shields.io/badge/GeeksforGeeks-Coding%20Profile-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-</a>
-
-<a href="https://www.hackerrank.com/">
-<img src="https://img.shields.io/badge/HackerRank-Developer-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-</a>
-
-<a href="https://www.codechef.com/">
-<img src="https://img.shields.io/badge/CodeChef-Competitive%20Programming-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-# GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=piushmaji&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=piushmaji&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=piushmaji&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piushmaji&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piushmaji&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-# GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=piushmaji&theme=algolia&column=4&margin-w=15&margin-h=15"/>
-
-</div>
-
----
-
-# Contribution Activity
+## GitHub Activity
 
 <div align="center">
 
@@ -318,7 +176,17 @@ Designing and developing modern frontend applications focused on performance, re
 
 ---
 
-# Contribution Snake
+## GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=piushmaji&theme=algolia&column=4&margin-w=15&margin-h=15"/>
+
+</div>
+
+---
+
+## Contribution Snake
 
 <div align="center">
 
@@ -328,69 +196,24 @@ Designing and developing modern frontend applications focused on performance, re
 
 ---
 
-# Current Focus
-
-```yaml
-Learning:
-  - Advanced React Architecture
-  - System Design Fundamentals
-  - Machine Learning Engineering
-  - Cloud Computing
-
-Building:
-  - StoreX E-Commerce Platform
-  - Full Stack MERN Applications
-  - Open Source Projects
-
-Exploring:
-  - Generative AI
-  - LLM Applications
-  - Product Engineering
-  - Scalable Web Systems
-
-Open_To:
-  - Frontend Developer Internships
-  - Software Engineering Internships
-  - Open Source Collaboration
-  - AI Engineering Opportunities
-```
-
----
-
-# Connect
+## Connect With Me
 
 <div align="center">
 
-<a href="mailto:piushmaji@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-piushmaji%40gmail.com-A855F7?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Piush%20Maji-7C3AED?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/piush-maji-4aa2a72b9/)
 
-<br/><br/>
+[![Email](https://img.shields.io/badge/Gmail-piushmaji@gmail.com-A855F7?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:piushmaji@gmail.com)
 
-<a href="https://linkedin.com/in/piush-maji-4aa2a72b9">
-<img src="https://img.shields.io/badge/LinkedIn-Piush%20Maji-6366F1?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/piushmaji">
-<img src="https://img.shields.io/badge/GitHub-piushmaji-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-<a href="https://portfolio.example.com">
-<img src="https://img.shields.io/badge/Portfolio-Visit%20Now-4F46E5?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
+[![GitHub](https://img.shields.io/badge/GitHub-piushmaji-6366F1?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/piushmaji)
 
 </div>
 
 ---
 
-# <div align="center">"Engineering products that scale, perform, and create meaningful impact."</div>
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:4F46E5,50:7C3AED,100:A855F7"/>
+*"Building clean, responsive, and user-focused web experiences."*
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
