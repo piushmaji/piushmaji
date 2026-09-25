@@ -1,19 +1,9 @@
 <img src="banner1.png" width="100%"/>
 
-<table border="0" cellpadding="0" cellspacing="0">
-<tr>
-<td valign="middle" style="padding-right: 12px;">
-
-<h1>Piush Maji</h1>
-
-</td>
-<td valign="middle">
-
-<img src="hii.gif" height="50" alt="Hi">
-
-</td>
-</tr>
-</table>
+<h1 align="left">
+  Piush Maji
+  <img src="./hii.svg" alt="Hi" height="42" style="vertical-align: 2px; margin-left: 8px;">
+</h1>
 
 **AI Engineer · Generative AI · LLM Applications · RAG · Backend**
 
@@ -176,11 +166,22 @@ Contributing to application and platform engineering.
 
 <br>
 
-### Connect
+<h2 align="left">Connect</h2>
 
 <p align="left">
-<a href="https://www.linkedin.com/in/piushmaji"><img src="https://img.shields.io/badge/LinkedIn-050806?style=flat-square&logo=linkedin&logoColor=0A66C2"/></a>
-<a href="https://github.com/piushmaji"><img src="https://img.shields.io/badge/GitHub-050806?style=flat-square&logo=github&logoColor=white"/></a>
-<a href="https://piushmaji.online"><img src="https://img.shields.io/badge/Portfolio-050806?style=flat-square&logo=vercel&logoColor=white"/></a>
-<a href="mailto:piushmaji@gmail.com"><img src="https://img.shields.io/badge/Email-050806?style=flat-square&logo=gmail&logoColor=EA4335"/></a>
+  <a href="https://www.linkedin.com/in/piushmaji">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="42" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/piushmaji">
+    <img src="https://skillicons.dev/icons?i=github&theme=dark" height="42" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://piushmaji.online">
+    <img src="https://skillicons.dev/icons?i=vercel&theme=dark" height="42" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:piushmaji@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="42" />
+  </a>
 </p>
