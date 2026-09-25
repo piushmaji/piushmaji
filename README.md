@@ -1,9 +1,19 @@
 <img src="banner1.png" width="100%"/>
 
-<h1 align="left">
-  Piush Maji
-  <img src="./hi.gif" width="40" alt="Hi GIF">
-</h1>
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td valign="middle" style="padding-right: 12px;">
+
+<h1>Piush Maji</h1>
+
+</td>
+<td valign="middle">
+
+<img src="hii.gif" height="50" alt="Hi">
+
+</td>
+</tr>
+</table>
 
 **AI Engineer · Generative AI · LLM Applications · RAG · Backend**
 
